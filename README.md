@@ -21,7 +21,7 @@ A simple, lightweight bookmark manager built with vanilla **HTML**, **CSS**, and
 
 ## 🚀 Demo
 
-[Live Demo](https://itssalman095.github.io/Bookmark-Saver/) *(replace with your GitHub Pages link, or delete this section)*
+[Live Demo](https://itssalman095.github.io/Bookmark-Saver/)
 
 ---
 
