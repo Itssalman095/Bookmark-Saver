@@ -32,7 +32,7 @@ No installation, no build tools, no dependencies.
 ### Clone the repo
 
 ```bash
-git clone https://github.com/your-username/bookmark-saver.git
+git clone https://github.com/Itssalman095/bookmark-saver.git
 cd bookmark-saver
 ```
 
